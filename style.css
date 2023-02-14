@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+  }
+  #clear{
+    width: 195px;
+    align-items: center;
+  }
+  .formstyle{
+    width: 200px;
+    height:400px;
+    margin: auto;
+    border: 2px solid black;
+    background-color: white;
+  }
+  input{
+    width: 62px;
+    height :45px;
+    margin: 1px;
+    margin-bottom: -7px;
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+    border-bottom: 1px solid black;
+  }
+  #answerstyle{
+    width:190px;
+  }
+  
